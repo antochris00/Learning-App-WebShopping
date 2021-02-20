@@ -60,8 +60,7 @@
   <div class="container">
     <div class="heading">
       <h3>What would you like to do next?</h3>
-      <p>Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.
-        <span *ngIf="this.pincodeDetails !== undefined && this.pincodeDetails !== null">Free delivery on minimum <strong>₹ {{this.pincodeDetails.minimumamtforfreedelivery}}</strong>.</span></p>
+      <p>Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.</p>
     </div>
     <div class="row">
       <ngx-loading [show]="couponLoading"></ngx-loading>
@@ -79,7 +78,7 @@
             <br/>
             <li>
               <mat-form-field>
-                <mat-label>Copupon Code</mat-label>
+                <mat-label>Coupon Code</mat-label>
                 <input type="text" matInput placeholder="coupon code" [(ngModel)]="coupon">
               </mat-form-field>
               <a *ngIf="!isMobileView()" style="cursor: pointer;" class="btn btn-default update" (click)="applyCoupon()">Apply Coupon</a>

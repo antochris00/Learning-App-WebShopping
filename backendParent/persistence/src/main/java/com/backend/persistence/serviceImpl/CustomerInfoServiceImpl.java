@@ -141,5 +141,28 @@ public class CustomerInfoServiceImpl implements CustomerInfoService{
 		customer.setMobile(mobile);
 		save(customer);
 	}
+	
+	//done by Chris
+	@Override
+	public List<CustomerInfo> findAllCustomersForTenant(int offset, int limit) {
+		return customerRepo.findLimitedCustomers(baseService.getTenantInfo().getTenantID(),limit,offset);
+	}
+	
+	@Override
+	public List<CustomerInfo> findAllCustomersForTenant() {
+		return customerRepo.findAllCustomers(baseService.getTenantInfo());
+	}
+	
+	@Override
+	public int findAllCustomersCountForTenant(){
+		return customerRepo.findAllCustomersCount(baseService.getTenantInfo());
+	}
+	
+	@Override
+	public void toggleCustomerStatus(CustomerInfo customer) {
+		customer.setActive(!customer.isActive());
+		save(customer);
+	}
+
 
 }

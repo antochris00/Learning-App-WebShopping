@@ -41,5 +41,15 @@ public interface CustomerInfoService {
 	void addCustomerAddress(CustomerAddress address);
 
 	void updateCustomerMobile(String mobile);
+	
+
+	//Done by Chris
+	List<CustomerInfo> findAllCustomersForTenant(int offset, int limit);
+	
+	List<CustomerInfo> findAllCustomersForTenant();
+	
+	int findAllCustomersCountForTenant();
+
+	void toggleCustomerStatus(CustomerInfo customer);
 
 }

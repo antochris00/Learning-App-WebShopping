@@ -258,6 +258,7 @@ public class LoginController {
 				if(!configUtil.isProdMode()) {
 					logger.info("OTP - " + otp);
 				}
+				logger.info("OTP - " + otp);
 				emailService.sendOtpEmail(cusObj.getCustomerInfo().getEmailId(), otp);
 				response.setStatus(Response.Status.OK);
 			} else {

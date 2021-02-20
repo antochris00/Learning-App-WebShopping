@@ -1,0 +1,625 @@
+2021-02-18 00:00:00,006 INFO com.backend.service.scheduledtask.ResetDashboardStatusScheduledTask [MessageBroker-8] Scheduled Task - com.backend.service.scheduledtask.ResetDashboardStatusScheduledTask Started
+2021-02-18 00:00:00,006 INFO com.backend.service.scheduledtask.PurgeTenantScheduledTask [MessageBroker-1] Scheduled Task - com.backend.service.scheduledtask.PurgeTenantScheduledTask Started
+2021-02-18 00:00:00,022 INFO com.backend.service.scheduledtask.PurgeTenantScheduledTask [MessageBroker-1] Scheduled Task - com.backend.service.scheduledtask.PurgeTenantScheduledTask Completed
+2021-02-18 00:00:00,139 INFO com.backend.service.scheduledtask.ResetDashboardStatusScheduledTask [MessageBroker-8] Scheduled Task - com.backend.service.scheduledtask.ResetDashboardStatusScheduledTask Completed
+2021-02-18 00:00:01,015 INFO com.backend.service.scheduledtask.DeactivateProductsForDeletedCategory [MessageBroker-2] Scheduled Task - com.backend.service.scheduledtask.DeactivateProductsForDeletedCategory Started
+2021-02-18 00:00:01,080 INFO com.backend.service.scheduledtask.DeactivateProductsForDeletedCategory [MessageBroker-2] Scheduled Task - com.backend.service.scheduledtask.DeactivateProductsForDeletedCategory Completed
+2021-02-18 00:00:13,789 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:00:13,803 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:00:43,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:00:43,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:01:03,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:01:03,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:01:43,796 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:01:43,803 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:01:53,799 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:01:53,805 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:02:43,790 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:02:43,790 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:02:43,798 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:02:43,798 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:03:33,803 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:03:33,812 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:03:43,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:03:43,801 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:04:23,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:04:23,801 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:04:43,795 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:04:43,802 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:05:00,008 INFO com.backend.service.scheduledtask.DeactivateCouponsScheduledTask [MessageBroker-2] Scheduled Task - com.backend.service.scheduledtask.DeactivateCouponsScheduledTask Started
+2021-02-18 00:05:00,008 INFO com.backend.service.scheduledtask.TaskUpdateScheduledTask [MessageBroker-8] Scheduled Task - com.backend.service.scheduledtask.TaskUpdateScheduledTask Started
+2021-02-18 00:05:00,084 INFO com.backend.service.scheduledtask.TaskUpdateScheduledTask [MessageBroker-8] Scheduled Task - com.backend.service.scheduledtask.TaskUpdateScheduledTask Completed
+2021-02-18 00:05:00,085 INFO com.backend.service.scheduledtask.DeactivateCouponsScheduledTask [MessageBroker-2] Scheduled Task - com.backend.service.scheduledtask.DeactivateCouponsScheduledTask Completed
+2021-02-18 00:05:13,799 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:05:13,812 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:05:43,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:05:43,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:06:03,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:06:03,798 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:06:43,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:06:43,801 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:06:53,798 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:06:53,805 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:07:43,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:07:43,793 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:07:43,798 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:07:43,801 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:08:33,795 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:08:33,801 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:08:43,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:08:43,789 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:09:23,803 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:09:23,816 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:09:43,786 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:09:43,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:10:13,803 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:10:13,811 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:10:43,801 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:10:43,806 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:11:03,797 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:11:03,804 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:11:43,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:11:43,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:11:53,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:11:53,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:12:43,798 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:12:43,800 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:12:43,807 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:12:43,807 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:13:33,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:13:33,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:13:43,802 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:13:43,810 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:14:23,799 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:14:23,806 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:14:43,800 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:14:43,807 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:15:13,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:15:13,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:15:43,800 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:15:43,807 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:16:03,786 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:16:03,793 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:16:43,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:16:43,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:16:53,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:16:53,789 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:17:43,799 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:17:43,802 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:17:43,808 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:17:43,810 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:18:33,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:18:33,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:18:43,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:18:43,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:19:23,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:19:23,800 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:19:43,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:19:43,798 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:20:13,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:20:13,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:20:43,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:20:43,798 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:21:03,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:21:03,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:21:43,797 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:21:43,804 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:21:53,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:21:53,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:22:43,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:22:43,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:22:43,800 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:22:43,802 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:23:33,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:23:33,803 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:23:43,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:23:43,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:24:23,793 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:24:23,806 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:24:43,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:24:43,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:25:13,295 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:25:13,302 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:25:22,230 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /login/customerAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:25:43,801 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:25:43,807 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:26:03,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:26:03,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:26:43,789 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:26:43,800 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:26:53,790 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:26:53,796 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:27:43,795 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:27:43,800 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:27:43,815 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:27:43,817 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:28:33,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:28:33,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:28:43,803 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:28:43,811 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:29:23,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:29:23,792 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:29:43,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:29:43,801 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:30:13,799 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:30:13,818 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:30:43,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:30:43,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:31:01,007 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:01,013 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-5] Ping for Tenant -devRealm
+2021-02-18 00:31:01,388 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:01,395 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:31:01,403 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:01,405 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:01,411 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:01,414 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:31:01,417 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:31:01,423 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:31:01,489 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:01,504 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:01,511 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:31:01,517 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /socket/331/1uxdhmtt/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:51,809 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:31:51,817 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:32:01,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:32:01,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:32:41,806 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:32:41,819 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:33:01,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:33:01,810 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:33:31,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:33:31,803 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:34:01,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:34:01,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:34:21,809 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:34:21,815 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:35:01,790 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:35:01,796 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:35:11,796 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:35:11,802 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:36:01,807 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:36:01,811 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:36:01,817 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:36:01,819 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:36:51,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:36:51,797 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:37:01,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:37:01,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:37:41,802 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:37:41,808 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:38:01,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:38:01,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:38:31,796 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:38:31,802 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:39:01,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:39:01,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:39:21,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:39:21,797 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:40:01,933 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:01,936 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-10] Ping for Tenant -devRealm
+2021-02-18 00:40:02,307 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:02,313 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:40:02,320 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:02,322 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:02,328 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:02,329 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:40:02,331 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:40:02,337 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:40:02,399 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:02,411 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:02,418 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:40:02,425 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /socket/833/bkvgiqev/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:52,828 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:40:52,835 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:41:02,785 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:41:02,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:41:42,803 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:41:42,810 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:42:02,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:42:02,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:42:32,796 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:42:32,808 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:43:02,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:02,792 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:43:22,793 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:22,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:43:43,270 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:43,273 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-8] Ping for Tenant -devRealm
+2021-02-18 00:43:43,557 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:43,566 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:43:43,573 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:43,576 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:43,584 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:43:43,584 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:43,587 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:43:43,592 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:43:43,653 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:43,666 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:43:43,675 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:43:43,682 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /socket/367/esak4lub/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:44:33,810 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:44:33,817 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:44:43,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:44:43,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:45:23,786 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:45:23,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:45:43,789 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:45:43,796 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:46:13,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:46:13,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:46:43,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:46:43,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:47:03,790 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:47:03,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:47:43,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:47:43,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:47:53,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:47:53,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:48:43,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:48:43,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:48:43,803 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:48:43,806 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:49:33,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:49:33,793 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:49:43,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:49:43,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:50:23,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:50:23,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:50:43,793 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:50:43,801 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:51:13,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:51:13,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:51:43,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:51:43,789 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:52:03,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:52:03,789 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:52:36,101 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:52:36,105 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-7] Ping for Tenant -devRealm
+2021-02-18 00:52:36,389 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:52:36,399 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:52:36,408 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:52:36,409 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:52:36,417 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:52:36,419 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:52:36,421 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:52:36,426 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:52:36,494 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:52:36,508 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:52:36,516 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:52:36,521 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /socket/441/zuqz1gwo/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:53:26,835 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:53:26,842 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:53:36,797 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:53:36,803 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:54:16,793 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:54:16,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:54:36,793 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:54:36,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:55:06,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:55:06,793 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:55:36,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:55:36,789 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:55:56,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:55:56,796 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:56:36,794 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:56:36,800 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:56:46,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:56:46,788 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:01,317 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:01,321 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-3] Ping for Tenant -devRealm
+2021-02-18 00:57:01,681 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:01,688 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:01,696 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:01,698 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:01,704 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:01,705 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:01,707 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:01,713 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:01,775 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:01,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:01,800 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:01,806 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /socket/511/osk1j2oz/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:18,516 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:18,520 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-2] Ping for Tenant -devRealm
+2021-02-18 00:57:18,813 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:18,820 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:18,828 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:18,829 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:18,835 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:18,836 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:18,839 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:18,845 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:18,904 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:18,919 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:57:18,927 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:57:18,936 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /socket/678/lepf5g1j/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:10,069 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:10,074 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-7] Ping for Tenant -devRealm
+2021-02-18 00:58:10,362 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:10,372 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:10,380 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:10,382 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:10,392 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:10,393 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:10,395 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:10,401 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:10,473 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:10,489 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:10,495 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:10,501 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /socket/968/jqqutgmb/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:14,518 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:14,523 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-5] Ping for Tenant -devRealm
+2021-02-18 00:58:14,763 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:14,772 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:14,777 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:14,779 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:14,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:14,786 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:14,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:14,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:14,883 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:14,894 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:58:14,901 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:58:14,911 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /socket/538/u223aq2w/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:03,045 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:03,051 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-8] Ping for Tenant -devRealm
+2021-02-18 00:59:03,356 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:03,365 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:59:03,371 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:03,373 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:03,379 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:03,381 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:59:03,382 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:59:03,388 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:59:03,450 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:03,462 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:03,469 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 00:59:03,478 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /socket/264/qru4lmyk/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:53,839 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 00:59:53,844 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:00:03,798 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:00:03,803 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:00:43,793 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:00:43,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:01:03,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:01:03,788 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:01:33,800 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:01:33,806 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:02:03,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:02:03,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:02:23,785 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:02:23,791 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:03:03,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:03:03,797 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:03:13,801 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:03:13,806 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:04:03,112 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /login/registerCustomer (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:03,117 ERROR com.backend.commons.serviceImpl.OtpServiceImpl [http-nio-8081-exec-1] Requested Item released from Cache - CacheLoader returned null for key dy12cehmi8@safemail.icuclientOTP.
+2021-02-18 01:04:03,796 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:03,800 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:03,806 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:04:03,807 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:04:10,908 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /login/customerAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:10,943 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/customer/getCustomerCartCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:10,948 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Client Email : dy12cehmi8@safemail.icu
+2021-02-18 01:04:10,965 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /product/getFeaturedProducts (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:10,965 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /base/homeMedia (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:10,971 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-5] Load HomePageMedia for Tenant -devTenant
+2021-02-18 01:04:16,447 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:16,452 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-4] Ping for Tenant -devRealm
+2021-02-18 01:04:16,493 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /base/homeMedia (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:16,495 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /product/getFeaturedProducts (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:16,497 INFO com.backend.api.controller.BaseController [http-nio-8081-exec-2] Load HomePageMedia for Tenant -devTenant
+2021-02-18 01:04:53,789 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:04:53,798 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:05:03,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:05:03,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:05:04,220 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /login/customerAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:05:43,796 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:05:43,802 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:06:03,797 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:06:03,804 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:06:33,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:06:33,798 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:07:03,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:07:03,795 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:07:23,804 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:07:23,810 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:08:03,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:08:03,806 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:08:13,791 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:08:13,797 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:09:03,802 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:09:03,808 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:09:03,817 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:09:03,819 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:09:53,803 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:09:53,809 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-7] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:10:03,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:10:03,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:10:43,786 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:10:43,792 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:11:03,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:11:03,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:11:33,798 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:11:33,804 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:12:03,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:12:03,789 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:12:23,788 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:12:23,793 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:13:03,795 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:13:03,800 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:13:13,793 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:13:13,799 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-5] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:14:03,798 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:14:03,802 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:14:03,808 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:14:03,810 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-9] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:14:53,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:14:53,788 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-10] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:15:03,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:15:03,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-1] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:15:43,792 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:15:43,797 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:16:03,787 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:16:03,794 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:16:33,784 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:16:33,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-2] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:17:03,786 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:17:03,792 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-6] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:17:23,795 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:17:23,801 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-8] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:18:03,783 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:18:03,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-3] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:18:13,782 INFO com.backend.core.security.RealmFilter [http-nio-8081-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-18 01:18:13,790 INFO com.backend.api.security.TokenFilter [http-nio-8081-exec-4] JWT Token Filter :: user - Employee Email : prodemail@email.com
+2021-02-18 01:18:36,732 INFO com.backend.service.app.Application [restartedMain] Starting SpringBoot Application
+2021-02-18 01:18:36,794 INFO com.backend.service.app.Application [restartedMain] Starting Application on DESKTOP-1G3J74F with PID 8056 (C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes started by Admin in C:\LOCALREPO\Learning-App-WebShopping\backendParent\service)
+2021-02-18 01:18:36,795 DEBUG com.backend.service.app.Application [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-02-18 01:18:36,795 INFO com.backend.service.app.Application [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-18 01:18:38,241 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classpath resources at 'classpath:db/migration' ...
+2021-02-18 01:18:38,241 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classpath resources at 'classpath:db/migration' ...
+2021-02-18 01:18:38,242 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Determining location urls for classpath:db/migration using ClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@10c27185 ...
+2021-02-18 01:18:38,242 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Determining location urls for classpath:db/migration using ClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@10c27185 ...
+2021-02-18 01:18:38,243 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning URL: file:/C:/LOCALREPO/Learning-App-WebShopping/backendParent/service/target/classes/db/migration
+2021-02-18 01:18:38,243 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning URL: file:/C:/LOCALREPO/Learning-App-WebShopping/backendParent/service/target/classes/db/migration
+2021-02-18 01:18:38,244 DEBUG org.flywaydb.core.internal.util.FeatureDetector [restartedMain] JBoss VFS v2 available: false
+2021-02-18 01:18:38,244 DEBUG org.flywaydb.core.internal.util.FeatureDetector [restartedMain] JBoss VFS v2 available: false
+2021-02-18 01:18:38,244 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning starting at classpath root in filesystem: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\
+2021-02-18 01:18:38,244 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning starting at classpath root in filesystem: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\
+2021-02-18 01:18:38,244 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning for resources in path: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\db\migration (db/migration)
+2021-02-18 01:18:38,244 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning for resources in path: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\db\migration (db/migration)
+2021-02-18 01:18:38,245 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V1__initial.sql
+2021-02-18 01:18:38,245 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V1__initial.sql
+2021-02-18 01:18:38,246 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V2__initial.sql
+2021-02-18 01:18:38,246 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V2__initial.sql
+2021-02-18 01:18:38,246 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V3__Feb2021.sql
+2021-02-18 01:18:38,246 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V3__Feb2021.sql
+2021-02-18 01:18:38,247 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classes at classpath:db/migration
+2021-02-18 01:18:38,247 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classes at classpath:db/migration
+2021-02-18 01:18:38,250 INFO org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Database: jdbc:mysql://localhost:3306/clouddatabase (MySQL 8.0)
+2021-02-18 01:18:38,250 INFO org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Database: jdbc:mysql://localhost:3306/clouddatabase (MySQL 8.0)
+2021-02-18 01:18:38,250 DEBUG org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Driver  : MySQL Connector/J mysql-connector-java-8.0.20 (Revision: afc0a13cd3c5a0bf57eaa809ee0ee6df1fd5ac9b)
+2021-02-18 01:18:38,250 DEBUG org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Driver  : MySQL Connector/J mysql-connector-java-8.0.20 (Revision: afc0a13cd3c5a0bf57eaa809ee0ee6df1fd5ac9b)
+2021-02-18 01:18:38,253 DEBUG org.flywaydb.core.Flyway [restartedMain] DDL Transactions Supported: false
+2021-02-18 01:18:38,253 DEBUG org.flywaydb.core.Flyway [restartedMain] DDL Transactions Supported: false
+2021-02-18 01:18:38,253 DEBUG org.flywaydb.core.Flyway [restartedMain] Schemas: 
+2021-02-18 01:18:38,253 DEBUG org.flywaydb.core.Flyway [restartedMain] Schemas: 
+2021-02-18 01:18:38,253 DEBUG org.flywaydb.core.Flyway [restartedMain] Default schema: null
+2021-02-18 01:18:38,253 DEBUG org.flywaydb.core.Flyway [restartedMain] Default schema: null
+2021-02-18 01:18:38,256 DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory [restartedMain] Scanning for SQL callbacks ...
+2021-02-18 01:18:38,256 DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory [restartedMain] Scanning for SQL callbacks ...
+2021-02-18 01:18:38,260 DEBUG org.flywaydb.core.internal.command.DbValidate [restartedMain] Validating migrations ...
+2021-02-18 01:18:38,260 DEBUG org.flywaydb.core.internal.command.DbValidate [restartedMain] Validating migrations ...
+2021-02-18 01:18:38,264 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V1__initial.sql (filename: V1__initial.sql)
+2021-02-18 01:18:38,264 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V1__initial.sql (filename: V1__initial.sql)
+2021-02-18 01:18:38,264 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V2__initial.sql (filename: V2__initial.sql)
+2021-02-18 01:18:38,264 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V2__initial.sql (filename: V2__initial.sql)
+2021-02-18 01:18:38,264 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V3__Feb2021.sql (filename: V3__Feb2021.sql)
+2021-02-18 01:18:38,264 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V3__Feb2021.sql (filename: V3__Feb2021.sql)
+2021-02-18 01:18:38,271 INFO org.flywaydb.core.internal.command.DbValidate [restartedMain] Successfully validated 4 migrations (execution time 00:00.010s)
+2021-02-18 01:18:38,271 INFO org.flywaydb.core.internal.command.DbValidate [restartedMain] Successfully validated 4 migrations (execution time 00:00.010s)
+2021-02-18 01:18:38,278 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Current version of schema `clouddatabase`: 4
+2021-02-18 01:18:38,278 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Current version of schema `clouddatabase`: 4
+2021-02-18 01:18:38,278 WARN org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` has a version (4) that is newer than the latest available migration (3) !
+2021-02-18 01:18:38,278 WARN org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` has a version (4) that is newer than the latest available migration (3) !
+2021-02-18 01:18:38,279 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` is up to date. No migration necessary.
+2021-02-18 01:18:38,279 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` is up to date. No migration necessary.
+2021-02-18 01:18:38,281 DEBUG org.flywaydb.core.Flyway [restartedMain] Memory usage: 78 of 150M
+2021-02-18 01:18:38,281 DEBUG org.flywaydb.core.Flyway [restartedMain] Memory usage: 78 of 150M
+2021-02-18 01:18:39,252 INFO com.backend.core.configuration.FeatureToggleLoading [restartedMain] Loading feature toggle informations
+2021-02-18 01:18:39,264 INFO com.backend.core.configuration.FeatureToggleLoading [restartedMain] Processed Feature -> 1
+2021-02-18 01:18:39,337 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loading Tenant/Realm information
+2021-02-18 01:18:39,430 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> devRealm
+2021-02-18 01:18:39,482 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> devRealm1
+2021-02-18 01:18:39,540 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> Ria Groceries
+2021-02-18 01:18:39,853 INFO com.backend.core.security.CoreSecurityConfiguration [restartedMain] <<<<<<<<<< App Running in prod mode >>>>>>>>
+2021-02-18 01:18:40,488 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-02-18 01:18:45,181 INFO com.backend.service.app.Application [restartedMain] Starting SpringBoot Application
+2021-02-18 01:18:45,247 INFO com.backend.service.app.Application [restartedMain] Starting Application on DESKTOP-1G3J74F with PID 8056 (C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes started by Admin in C:\LOCALREPO\Learning-App-WebShopping\backendParent\service)
+2021-02-18 01:18:45,247 DEBUG com.backend.service.app.Application [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-02-18 01:18:45,248 INFO com.backend.service.app.Application [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-18 01:18:46,186 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classpath resources at 'classpath:db/migration' ...
+2021-02-18 01:18:46,186 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classpath resources at 'classpath:db/migration' ...
+2021-02-18 01:18:46,186 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Determining location urls for classpath:db/migration using ClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@1dfa5f21 ...
+2021-02-18 01:18:46,186 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Determining location urls for classpath:db/migration using ClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@1dfa5f21 ...
+2021-02-18 01:18:46,187 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning URL: file:/C:/LOCALREPO/Learning-App-WebShopping/backendParent/service/target/classes/db/migration
+2021-02-18 01:18:46,187 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning URL: file:/C:/LOCALREPO/Learning-App-WebShopping/backendParent/service/target/classes/db/migration
+2021-02-18 01:18:46,187 DEBUG org.flywaydb.core.internal.util.FeatureDetector [restartedMain] JBoss VFS v2 available: false
+2021-02-18 01:18:46,187 DEBUG org.flywaydb.core.internal.util.FeatureDetector [restartedMain] JBoss VFS v2 available: false
+2021-02-18 01:18:46,187 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning starting at classpath root in filesystem: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\
+2021-02-18 01:18:46,187 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning starting at classpath root in filesystem: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning for resources in path: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\db\migration (db/migration)
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning for resources in path: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\db\migration (db/migration)
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V1__initial.sql
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V1__initial.sql
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V2__initial.sql
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V2__initial.sql
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V3__Feb2021.sql
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V3__Feb2021.sql
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classes at classpath:db/migration
+2021-02-18 01:18:46,188 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classes at classpath:db/migration
+2021-02-18 01:18:46,192 INFO org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Database: jdbc:mysql://localhost:3306/clouddatabase (MySQL 8.0)
+2021-02-18 01:18:46,192 INFO org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Database: jdbc:mysql://localhost:3306/clouddatabase (MySQL 8.0)
+2021-02-18 01:18:46,192 DEBUG org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Driver  : MySQL Connector/J mysql-connector-java-8.0.20 (Revision: afc0a13cd3c5a0bf57eaa809ee0ee6df1fd5ac9b)
+2021-02-18 01:18:46,192 DEBUG org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Driver  : MySQL Connector/J mysql-connector-java-8.0.20 (Revision: afc0a13cd3c5a0bf57eaa809ee0ee6df1fd5ac9b)
+2021-02-18 01:18:46,194 DEBUG org.flywaydb.core.Flyway [restartedMain] DDL Transactions Supported: false
+2021-02-18 01:18:46,194 DEBUG org.flywaydb.core.Flyway [restartedMain] DDL Transactions Supported: false
+2021-02-18 01:18:46,194 DEBUG org.flywaydb.core.Flyway [restartedMain] Schemas: 
+2021-02-18 01:18:46,194 DEBUG org.flywaydb.core.Flyway [restartedMain] Schemas: 
+2021-02-18 01:18:46,194 DEBUG org.flywaydb.core.Flyway [restartedMain] Default schema: null
+2021-02-18 01:18:46,194 DEBUG org.flywaydb.core.Flyway [restartedMain] Default schema: null
+2021-02-18 01:18:46,195 DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory [restartedMain] Scanning for SQL callbacks ...
+2021-02-18 01:18:46,195 DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory [restartedMain] Scanning for SQL callbacks ...
+2021-02-18 01:18:46,199 DEBUG org.flywaydb.core.internal.command.DbValidate [restartedMain] Validating migrations ...
+2021-02-18 01:18:46,199 DEBUG org.flywaydb.core.internal.command.DbValidate [restartedMain] Validating migrations ...
+2021-02-18 01:18:46,200 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V1__initial.sql (filename: V1__initial.sql)
+2021-02-18 01:18:46,200 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V1__initial.sql (filename: V1__initial.sql)
+2021-02-18 01:18:46,201 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V2__initial.sql (filename: V2__initial.sql)
+2021-02-18 01:18:46,201 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V2__initial.sql (filename: V2__initial.sql)
+2021-02-18 01:18:46,201 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V3__Feb2021.sql (filename: V3__Feb2021.sql)
+2021-02-18 01:18:46,201 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V3__Feb2021.sql (filename: V3__Feb2021.sql)
+2021-02-18 01:18:46,205 INFO org.flywaydb.core.internal.command.DbValidate [restartedMain] Successfully validated 4 migrations (execution time 00:00.005s)
+2021-02-18 01:18:46,205 INFO org.flywaydb.core.internal.command.DbValidate [restartedMain] Successfully validated 4 migrations (execution time 00:00.005s)
+2021-02-18 01:18:46,209 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Current version of schema `clouddatabase`: 4
+2021-02-18 01:18:46,209 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Current version of schema `clouddatabase`: 4
+2021-02-18 01:18:46,209 WARN org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` has a version (4) that is newer than the latest available migration (3) !
+2021-02-18 01:18:46,209 WARN org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` has a version (4) that is newer than the latest available migration (3) !
+2021-02-18 01:18:46,210 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` is up to date. No migration necessary.
+2021-02-18 01:18:46,210 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` is up to date. No migration necessary.
+2021-02-18 01:18:46,211 DEBUG org.flywaydb.core.Flyway [restartedMain] Memory usage: 119 of 200M
+2021-02-18 01:18:46,211 DEBUG org.flywaydb.core.Flyway [restartedMain] Memory usage: 119 of 200M
+2021-02-18 01:18:46,913 INFO com.backend.core.configuration.FeatureToggleLoading [restartedMain] Loading feature toggle informations
+2021-02-18 01:18:46,920 INFO com.backend.core.configuration.FeatureToggleLoading [restartedMain] Processed Feature -> 1
+2021-02-18 01:18:46,970 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loading Tenant/Realm information
+2021-02-18 01:18:47,069 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> devRealm
+2021-02-18 01:18:47,109 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> devRealm1
+2021-02-18 01:18:47,185 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> Ria Groceries
+2021-02-18 01:18:47,444 INFO com.backend.core.security.CoreSecurityConfiguration [restartedMain] <<<<<<<<<< App Running in prod mode >>>>>>>>
+2021-02-18 01:18:48,027 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+

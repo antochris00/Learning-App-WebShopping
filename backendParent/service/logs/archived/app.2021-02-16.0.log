@@ -1,0 +1,433 @@
+2021-02-16 13:40:14,811 INFO com.backend.service.app.Application [main] Starting SpringBoot Application
+2021-02-16 13:40:15,015 INFO com.backend.service.app.Application [restartedMain] Starting SpringBoot Application
+2021-02-16 13:40:15,429 INFO com.backend.service.app.Application [restartedMain] Starting Application on DESKTOP-1G3J74F with PID 6512 (C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes started by Admin in C:\LOCALREPO\Learning-App-WebShopping\backendParent\service)
+2021-02-16 13:40:15,430 DEBUG com.backend.service.app.Application [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-02-16 13:40:15,430 INFO com.backend.service.app.Application [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-16 13:40:19,700 INFO org.flywaydb.core.internal.license.VersionPrinter [restartedMain] Flyway Community Edition 6.4.4 by Redgate
+2021-02-16 13:40:19,700 INFO org.flywaydb.core.internal.license.VersionPrinter [restartedMain] Flyway Community Edition 6.4.4 by Redgate
+2021-02-16 13:40:19,704 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classpath resources at 'classpath:db/migration' ...
+2021-02-16 13:40:19,704 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classpath resources at 'classpath:db/migration' ...
+2021-02-16 13:40:19,705 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Determining location urls for classpath:db/migration using ClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@13928468 ...
+2021-02-16 13:40:19,705 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Determining location urls for classpath:db/migration using ClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@13928468 ...
+2021-02-16 13:40:19,706 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning URL: file:/C:/LOCALREPO/Learning-App-WebShopping/backendParent/service/target/classes/db/migration
+2021-02-16 13:40:19,706 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning URL: file:/C:/LOCALREPO/Learning-App-WebShopping/backendParent/service/target/classes/db/migration
+2021-02-16 13:40:19,707 DEBUG org.flywaydb.core.internal.util.FeatureDetector [restartedMain] JBoss VFS v2 available: false
+2021-02-16 13:40:19,707 DEBUG org.flywaydb.core.internal.util.FeatureDetector [restartedMain] JBoss VFS v2 available: false
+2021-02-16 13:40:19,709 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning starting at classpath root in filesystem: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\
+2021-02-16 13:40:19,709 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning starting at classpath root in filesystem: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\
+2021-02-16 13:40:19,709 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning for resources in path: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\db\migration (db/migration)
+2021-02-16 13:40:19,709 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning for resources in path: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\db\migration (db/migration)
+2021-02-16 13:40:19,712 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V1__initial.sql
+2021-02-16 13:40:19,712 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V1__initial.sql
+2021-02-16 13:40:19,712 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V2__initial.sql
+2021-02-16 13:40:19,712 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V2__initial.sql
+2021-02-16 13:40:19,713 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V3__Feb2021.sql
+2021-02-16 13:40:19,713 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V3__Feb2021.sql
+2021-02-16 13:40:19,713 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classes at classpath:db/migration
+2021-02-16 13:40:19,713 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classes at classpath:db/migration
+2021-02-16 13:40:19,981 INFO org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Database: jdbc:mysql://localhost:3306/clouddatabase (MySQL 8.0)
+2021-02-16 13:40:19,981 INFO org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Database: jdbc:mysql://localhost:3306/clouddatabase (MySQL 8.0)
+2021-02-16 13:40:19,982 DEBUG org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Driver  : MySQL Connector/J mysql-connector-java-8.0.20 (Revision: afc0a13cd3c5a0bf57eaa809ee0ee6df1fd5ac9b)
+2021-02-16 13:40:19,982 DEBUG org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Driver  : MySQL Connector/J mysql-connector-java-8.0.20 (Revision: afc0a13cd3c5a0bf57eaa809ee0ee6df1fd5ac9b)
+2021-02-16 13:40:19,997 DEBUG org.flywaydb.core.Flyway [restartedMain] DDL Transactions Supported: false
+2021-02-16 13:40:19,997 DEBUG org.flywaydb.core.Flyway [restartedMain] DDL Transactions Supported: false
+2021-02-16 13:40:19,997 DEBUG org.flywaydb.core.Flyway [restartedMain] Schemas: 
+2021-02-16 13:40:19,997 DEBUG org.flywaydb.core.Flyway [restartedMain] Schemas: 
+2021-02-16 13:40:19,998 DEBUG org.flywaydb.core.Flyway [restartedMain] Default schema: null
+2021-02-16 13:40:19,998 DEBUG org.flywaydb.core.Flyway [restartedMain] Default schema: null
+2021-02-16 13:40:20,008 DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory [restartedMain] Scanning for SQL callbacks ...
+2021-02-16 13:40:20,008 DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory [restartedMain] Scanning for SQL callbacks ...
+2021-02-16 13:40:20,022 DEBUG org.flywaydb.core.internal.command.DbValidate [restartedMain] Validating migrations ...
+2021-02-16 13:40:20,022 DEBUG org.flywaydb.core.internal.command.DbValidate [restartedMain] Validating migrations ...
+2021-02-16 13:40:20,056 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V1__initial.sql (filename: V1__initial.sql)
+2021-02-16 13:40:20,056 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V1__initial.sql (filename: V1__initial.sql)
+2021-02-16 13:40:20,056 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V2__initial.sql (filename: V2__initial.sql)
+2021-02-16 13:40:20,056 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V2__initial.sql (filename: V2__initial.sql)
+2021-02-16 13:40:20,056 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V3__Feb2021.sql (filename: V3__Feb2021.sql)
+2021-02-16 13:40:20,056 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V3__Feb2021.sql (filename: V3__Feb2021.sql)
+2021-02-16 13:40:20,093 INFO org.flywaydb.core.internal.command.DbValidate [restartedMain] Successfully validated 4 migrations (execution time 00:00.068s)
+2021-02-16 13:40:20,093 INFO org.flywaydb.core.internal.command.DbValidate [restartedMain] Successfully validated 4 migrations (execution time 00:00.068s)
+2021-02-16 13:40:20,105 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Current version of schema `clouddatabase`: 4
+2021-02-16 13:40:20,105 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Current version of schema `clouddatabase`: 4
+2021-02-16 13:40:20,105 WARN org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` has a version (4) that is newer than the latest available migration (3) !
+2021-02-16 13:40:20,105 WARN org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` has a version (4) that is newer than the latest available migration (3) !
+2021-02-16 13:40:20,107 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` is up to date. No migration necessary.
+2021-02-16 13:40:20,107 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` is up to date. No migration necessary.
+2021-02-16 13:40:20,115 DEBUG org.flywaydb.core.Flyway [restartedMain] Memory usage: 40 of 67M
+2021-02-16 13:40:20,115 DEBUG org.flywaydb.core.Flyway [restartedMain] Memory usage: 40 of 67M
+2021-02-16 13:40:23,146 INFO com.backend.core.configuration.FeatureToggleLoading [restartedMain] Loading feature toggle informations
+2021-02-16 13:40:23,242 INFO com.backend.core.configuration.FeatureToggleLoading [restartedMain] Processed Feature -> 1
+2021-02-16 13:40:23,326 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loading Tenant/Realm information
+2021-02-16 13:40:23,578 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> devRealm
+2021-02-16 13:40:23,659 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> devRealm1
+2021-02-16 13:40:23,756 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> Ria Groceries
+2021-02-16 13:40:24,506 INFO com.backend.core.security.CoreSecurityConfiguration [restartedMain] <<<<<<<<<< App Running in prod mode >>>>>>>>
+2021-02-16 13:40:26,020 INFO com.backend.service.app.Application [restartedMain] Started Application in 10.996 seconds (JVM running for 11.751)
+2021-02-16 13:43:19,664 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:19,698 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-2] Ping for Tenant -devRealm
+2021-02-16 13:43:20,189 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/task/getAssignedTasks (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:20,191 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/getAllEmployeeNames (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:20,204 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:20,282 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:20,293 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:20,321 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/todo/getTodo (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:20,393 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:20,393 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:20,395 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:20,407 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:20,408 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:20,414 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:20,441 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/task/getCreatedTasks (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:20,481 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:20,531 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:20,630 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /socket/155/tpa5yak1/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:21,221 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/dashboard/getDashboardReport (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:21,250 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:31,206 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:31,226 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:40,533 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:40,554 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:48,747 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/getAllEmployeesCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:48,767 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:48,786 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/getAllEmployee (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:48,811 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:50,534 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:50,554 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:54,883 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:54,908 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:43:54,934 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:43:54,954 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:44:00,533 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:44:00,550 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:44:10,306 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:44:10,321 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:44:10,534 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:44:10,558 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:44:21,211 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:44:21,213 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:44:21,229 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:44:21,229 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:44:31,198 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:44:31,213 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:44:41,209 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:44:41,223 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:44:50,533 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:44:50,549 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:00,292 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:00,308 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:00,534 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:00,550 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:10,556 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:10,577 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:20,309 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:20,322 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:20,534 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:20,548 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:30,535 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:30,555 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:40,535 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:40,552 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:50,308 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:50,322 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:45:50,534 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:45:50,548 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:00,554 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:00,572 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-3] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:10,556 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:10,569 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:20,308 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:20,321 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:20,534 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:20,546 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:30,556 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:30,571 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:34,259 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:34,278 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-5] Ping for Tenant -devRealm
+2021-02-16 13:46:34,588 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:34,606 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:34,618 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:34,623 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:34,637 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:34,645 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:34,647 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:34,660 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:34,849 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:34,874 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:34,895 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:46:34,929 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /socket/745/5fgxyueq/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:40,694 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:46:40,708 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-6] Ping for Tenant -devRealm
+2021-02-16 13:48:00,011 INFO com.backend.service.scheduledtask.EmployeeLoggedInStatusScheduleTask [MessageBroker-1] Scheduled Task - com.backend.service.scheduledtask.EmployeeLoggedInStatusScheduleTask :: Employee ID : 1 cleared from cache
+2021-02-16 13:54:38,609 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:38,633 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:54:38,637 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:38,646 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:38,669 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:54:38,674 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:38,678 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:54:38,699 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:54:38,900 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:38,923 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/customer/getAllCustomers (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:38,942 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:54:38,967 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /socket/383/vwxdk4ma/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:48,797 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:48,816 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:54:59,256 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:54:59,290 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:07,391 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/orders/getAssignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:07,391 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:07,391 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/orders/getAssignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:07,410 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:07,410 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-3] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:07,410 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:08,779 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:08,792 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:19,201 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:19,213 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:29,231 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:29,234 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:29,247 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:29,248 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:38,643 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:38,657 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:38,777 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:38,790 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:48,778 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:48,790 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:55:59,207 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:55:59,218 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:56:08,775 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:56:08,786 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:56:18,642 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:56:18,655 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:56:18,776 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:56:18,788 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:56:29,201 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:56:29,213 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:56:39,201 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:56:39,203 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:56:39,217 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:56:39,217 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:56:49,213 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:56:49,223 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:56:59,200 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:56:59,218 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:09,203 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:09,205 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:09,219 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:09,219 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-3] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:19,200 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:19,211 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:29,208 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:29,223 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:39,218 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:39,221 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:39,232 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:39,234 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:49,202 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:49,212 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-3] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:59,208 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:59,211 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:57:59,221 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:57:59,222 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:09,203 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:09,213 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:19,204 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:19,214 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:29,214 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:29,224 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-3] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:38,643 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:38,655 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:38,776 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:38,787 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:41,061 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/employee/getCustomerById (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:41,075 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:49,210 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:49,214 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:49,224 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:49,228 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-3] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:58:59,201 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:58:59,210 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:59:09,203 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:59:09,213 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:59:19,207 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:59:19,217 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:59:29,201 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:59:29,210 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:59:39,199 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:59:39,201 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:59:39,207 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:59:39,216 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-3] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:59:39,217 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:59:39,223 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:59:48,777 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:59:48,785 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 13:59:59,210 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 13:59:59,222 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:09,196 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:09,206 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:19,204 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:19,216 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-3] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:24,226 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:24,233 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-5] Ping for Tenant -devRealm
+2021-02-16 14:00:24,395 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:24,411 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:24,418 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:24,421 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:24,434 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:24,438 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/orders/getAssignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:24,441 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:24,444 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:24,445 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/orders/getAssignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:24,460 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:24,466 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:24,468 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:24,660 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:24,725 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /socket/969/y5pmwm2t/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:34,522 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:34,530 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:35,804 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:35,809 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-2] Ping for Tenant -devRealm
+2021-02-16 14:00:35,913 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /secure/admin/employee/employeeTokenAuthentication (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:35,927 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/pushNotification/getNotifications (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:35,928 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-10] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:35,929 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/task/getPendingOverdueTaskCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:35,936 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:35,946 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/orders/getAssignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:35,948 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:35,951 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-7] doFilter :: Realm Filter :: URI - /secure/admin/orders/getAssignedOrders (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:35,953 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:35,961 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:35,966 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:35,973 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-7] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:36,099 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /socket/info (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:36,142 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /socket/500/oexonhbt/websocket (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:42,152 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:42,161 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-6] Ping for Tenant -devRealm
+2021-02-16 14:00:45,997 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:46,005 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:55,996 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:56,004 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:57,679 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /secure/admin/template/getActivePOSTemplate (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:57,680 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/template/downloadActiveTemplate (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:57,680 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /secure/admin/template/downloadPosActiveTemplate (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:57,680 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /secure/admin/template/getActiveTemplate (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:00:57,702 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-6] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:57,702 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:57,702 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-9] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:57,704 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-2] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:00:57,735 INFO com.backend.api.admin.controller.TempateController [http-nio-8080-exec-9] downloadPosActiveTemplate : C:\Users\Admin\AppData\Local\Temp\Pos-1DOC15167911395094284544.docx
+2021-02-16 14:00:57,735 INFO com.backend.api.admin.controller.TempateController [http-nio-8080-exec-4] downloadActiveTemplate : C:\Users\Admin\AppData\Local\Temp\Invoice-1DOC2193608525606928836.docx
+2021-02-16 14:00:57,762 INFO com.backend.commons.util.CommonUtil [http-nio-8080-exec-4] Removing Dir - C:\Users\Admin\AppData\Local\Temp\Invoice-1DOC2193608525606928836.docx
+2021-02-16 14:00:57,762 INFO com.backend.commons.util.CommonUtil [http-nio-8080-exec-9] Removing Dir - C:\Users\Admin\AppData\Local\Temp\Pos-1DOC15167911395094284544.docx
+2021-02-16 14:01:03,375 INFO com.backend.commons.util.FileUtil [http-nio-8080-exec-2] Removing Dir - C:\Users\Admin\AppData\Local\Temp\14042644494194691252\c27e6b64-f507-4578-9967-72d9e64caf3bimage1.png
+2021-02-16 14:01:03,376 INFO com.backend.commons.util.FileUtil [http-nio-8080-exec-2] Removing Dir - C:\Users\Admin\AppData\Local\Temp\14042644494194691252\c27e6b64-f507-4578-9967-72d9e64caf3bimage2.png
+2021-02-16 14:01:03,377 INFO com.backend.commons.util.FileUtil [http-nio-8080-exec-2] Removing Dir - C:\Users\Admin\AppData\Local\Temp\14042644494194691252
+2021-02-16 14:01:03,378 INFO com.backend.commons.util.CommonUtil [http-nio-8080-exec-2] Removing Dir - C:\Users\Admin\AppData\Local\Temp\Invoice-1DOC17348166483551537299.docx
+2021-02-16 14:01:03,379 INFO com.backend.api.admin.controller.TempateController [http-nio-8080-exec-2] getActiveTemplate : C:\Users\Admin\AppData\Local\Temp\Invoice-1PDF4767848228274350567.pdf
+2021-02-16 14:01:03,398 INFO com.backend.commons.util.CommonUtil [http-nio-8080-exec-2] Removing Dir - C:\Users\Admin\AppData\Local\Temp\Invoice-1PDF4767848228274350567.pdf
+2021-02-16 14:01:03,761 INFO com.backend.commons.util.FileUtil [http-nio-8080-exec-6] Removing Dir - C:\Users\Admin\AppData\Local\Temp\7342736980234924965\250226ed-7420-4252-8559-b00f0642f246image1.png
+2021-02-16 14:01:03,761 INFO com.backend.commons.util.FileUtil [http-nio-8080-exec-6] Removing Dir - C:\Users\Admin\AppData\Local\Temp\7342736980234924965\250226ed-7420-4252-8559-b00f0642f246image2.png
+2021-02-16 14:01:03,762 INFO com.backend.commons.util.FileUtil [http-nio-8080-exec-6] Removing Dir - C:\Users\Admin\AppData\Local\Temp\7342736980234924965\250226ed-7420-4252-8559-b00f0642f246image3.png
+2021-02-16 14:01:03,763 INFO com.backend.commons.util.FileUtil [http-nio-8080-exec-6] Removing Dir - C:\Users\Admin\AppData\Local\Temp\7342736980234924965
+2021-02-16 14:01:03,763 INFO com.backend.commons.util.CommonUtil [http-nio-8080-exec-6] Removing Dir - C:\Users\Admin\AppData\Local\Temp\Pos-1DOC7700300501751984554.docx
+2021-02-16 14:01:03,765 INFO com.backend.api.admin.controller.TempateController [http-nio-8080-exec-6] getActivePOSTemplate : C:\Users\Admin\AppData\Local\Temp\Pos-1PDF8839131738549439041.pdf
+2021-02-16 14:01:03,777 INFO com.backend.commons.util.CommonUtil [http-nio-8080-exec-6] Removing Dir - C:\Users\Admin\AppData\Local\Temp\Pos-1PDF8839131738549439041.pdf
+2021-02-16 14:01:05,998 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:01:06,012 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-5] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:01:15,997 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-8] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:01:16,009 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-8] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:01:25,948 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /secure/admin/employee/stillLoggedIn (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:01:25,958 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-1] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:01:25,998 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /secure/admin/orders/getUnassignedOrdersCount (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:01:26,008 INFO com.backend.api.security.TokenFilter [http-nio-8080-exec-4] JWT Token Filter :: user - Employee Email : q@1
+2021-02-16 14:02:10,557 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:02:10,565 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-1] Ping for Tenant -devRealm
+2021-02-16 14:03:00,019 INFO com.backend.service.scheduledtask.EmployeeLoggedInStatusScheduleTask [MessageBroker-5] Scheduled Task - com.backend.service.scheduledtask.EmployeeLoggedInStatusScheduleTask :: Employee ID : 1 cleared from cache
+2021-02-16 14:03:21,570 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:03:21,579 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-2] Ping for Tenant -devRealm
+2021-02-16 14:04:02,437 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-5] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:04:02,442 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-5] Ping for Tenant -devRealm
+2021-02-16 14:08:59,456 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:08:59,466 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-10] Ping for Tenant -devRealm
+2021-02-16 14:09:23,854 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-9] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:09:23,863 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-9] Ping for Tenant -devRealm
+2021-02-16 14:17:31,191 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-6] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:17:31,199 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-6] Ping for Tenant -devRealm
+2021-02-16 14:20:47,968 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:20:47,975 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-3] Ping for Tenant -devRealm
+2021-02-16 14:23:01,826 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-1] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:23:01,833 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-1] Ping for Tenant -devRealm
+2021-02-16 14:35:27,755 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-2] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 14:35:27,763 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-2] Ping for Tenant -devRealm
+2021-02-16 16:11:01,383 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-3] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 103.88.77.190)
+2021-02-16 16:11:01,397 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-3] Ping for Tenant -Ria Groceries
+2021-02-16 16:11:04,113 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-10] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 103.88.77.190)
+2021-02-16 16:11:04,119 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-10] Ping for Tenant -Ria Groceries
+2021-02-16 16:11:40,566 INFO com.backend.core.security.RealmFilter [http-nio-8080-exec-4] doFilter :: Realm Filter :: URI - /base/ping (Requested IP : 0:0:0:0:0:0:0:1)
+2021-02-16 16:11:40,577 INFO com.backend.api.controller.BaseController [http-nio-8080-exec-4] Ping for Tenant -devRealm
+2021-02-16 23:58:42,270 INFO com.backend.service.app.Application [main] Starting SpringBoot Application
+2021-02-16 23:58:42,504 INFO com.backend.service.app.Application [restartedMain] Starting SpringBoot Application
+2021-02-16 23:58:42,894 INFO com.backend.service.app.Application [restartedMain] Starting Application on DESKTOP-1G3J74F with PID 10516 (C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes started by Admin in C:\LOCALREPO\Learning-App-WebShopping\backendParent\service)
+2021-02-16 23:58:42,895 DEBUG com.backend.service.app.Application [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-02-16 23:58:42,895 INFO com.backend.service.app.Application [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-16 23:58:47,163 INFO org.flywaydb.core.internal.license.VersionPrinter [restartedMain] Flyway Community Edition 6.4.4 by Redgate
+2021-02-16 23:58:47,163 INFO org.flywaydb.core.internal.license.VersionPrinter [restartedMain] Flyway Community Edition 6.4.4 by Redgate
+2021-02-16 23:58:47,167 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classpath resources at 'classpath:db/migration' ...
+2021-02-16 23:58:47,167 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classpath resources at 'classpath:db/migration' ...
+2021-02-16 23:58:47,167 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Determining location urls for classpath:db/migration using ClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@23a69832 ...
+2021-02-16 23:58:47,167 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Determining location urls for classpath:db/migration using ClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@23a69832 ...
+2021-02-16 23:58:47,168 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning URL: file:/C:/LOCALREPO/Learning-App-WebShopping/backendParent/service/target/classes/db/migration
+2021-02-16 23:58:47,168 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning URL: file:/C:/LOCALREPO/Learning-App-WebShopping/backendParent/service/target/classes/db/migration
+2021-02-16 23:58:47,169 DEBUG org.flywaydb.core.internal.util.FeatureDetector [restartedMain] JBoss VFS v2 available: false
+2021-02-16 23:58:47,169 DEBUG org.flywaydb.core.internal.util.FeatureDetector [restartedMain] JBoss VFS v2 available: false
+2021-02-16 23:58:47,171 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning starting at classpath root in filesystem: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\
+2021-02-16 23:58:47,171 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning starting at classpath root in filesystem: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\
+2021-02-16 23:58:47,172 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning for resources in path: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\db\migration (db/migration)
+2021-02-16 23:58:47,172 DEBUG org.flywaydb.core.internal.scanner.classpath.FileSystemClassPathLocationScanner [restartedMain] Scanning for resources in path: C:\LOCALREPO\Learning-App-WebShopping\backendParent\service\target\classes\db\migration (db/migration)
+2021-02-16 23:58:47,175 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V1__initial.sql
+2021-02-16 23:58:47,175 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V1__initial.sql
+2021-02-16 23:58:47,176 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V2__initial.sql
+2021-02-16 23:58:47,176 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V2__initial.sql
+2021-02-16 23:58:47,176 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V3__Feb2021.sql
+2021-02-16 23:58:47,176 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Found resource: db/migration/V3__Feb2021.sql
+2021-02-16 23:58:47,176 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classes at classpath:db/migration
+2021-02-16 23:58:47,176 DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner [restartedMain] Scanning for classes at classpath:db/migration
+2021-02-16 23:58:47,411 INFO org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Database: jdbc:mysql://localhost:3306/clouddatabase (MySQL 8.0)
+2021-02-16 23:58:47,411 INFO org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Database: jdbc:mysql://localhost:3306/clouddatabase (MySQL 8.0)
+2021-02-16 23:58:47,412 DEBUG org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Driver  : MySQL Connector/J mysql-connector-java-8.0.20 (Revision: afc0a13cd3c5a0bf57eaa809ee0ee6df1fd5ac9b)
+2021-02-16 23:58:47,412 DEBUG org.flywaydb.core.internal.database.DatabaseFactory [restartedMain] Driver  : MySQL Connector/J mysql-connector-java-8.0.20 (Revision: afc0a13cd3c5a0bf57eaa809ee0ee6df1fd5ac9b)
+2021-02-16 23:58:47,418 DEBUG org.flywaydb.core.Flyway [restartedMain] DDL Transactions Supported: false
+2021-02-16 23:58:47,418 DEBUG org.flywaydb.core.Flyway [restartedMain] DDL Transactions Supported: false
+2021-02-16 23:58:47,418 DEBUG org.flywaydb.core.Flyway [restartedMain] Schemas: 
+2021-02-16 23:58:47,418 DEBUG org.flywaydb.core.Flyway [restartedMain] Schemas: 
+2021-02-16 23:58:47,419 DEBUG org.flywaydb.core.Flyway [restartedMain] Default schema: null
+2021-02-16 23:58:47,419 DEBUG org.flywaydb.core.Flyway [restartedMain] Default schema: null
+2021-02-16 23:58:47,426 DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory [restartedMain] Scanning for SQL callbacks ...
+2021-02-16 23:58:47,426 DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory [restartedMain] Scanning for SQL callbacks ...
+2021-02-16 23:58:47,440 DEBUG org.flywaydb.core.internal.command.DbValidate [restartedMain] Validating migrations ...
+2021-02-16 23:58:47,440 DEBUG org.flywaydb.core.internal.command.DbValidate [restartedMain] Validating migrations ...
+2021-02-16 23:58:47,477 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V1__initial.sql (filename: V1__initial.sql)
+2021-02-16 23:58:47,477 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V1__initial.sql (filename: V1__initial.sql)
+2021-02-16 23:58:47,477 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V2__initial.sql (filename: V2__initial.sql)
+2021-02-16 23:58:47,477 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V2__initial.sql (filename: V2__initial.sql)
+2021-02-16 23:58:47,478 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V3__Feb2021.sql (filename: V3__Feb2021.sql)
+2021-02-16 23:58:47,478 DEBUG org.flywaydb.core.internal.scanner.Scanner [restartedMain] Filtering out resource: db/migration/V3__Feb2021.sql (filename: V3__Feb2021.sql)
+2021-02-16 23:58:47,495 INFO org.flywaydb.core.internal.command.DbValidate [restartedMain] Successfully validated 4 migrations (execution time 00:00.053s)
+2021-02-16 23:58:47,495 INFO org.flywaydb.core.internal.command.DbValidate [restartedMain] Successfully validated 4 migrations (execution time 00:00.053s)
+2021-02-16 23:58:47,509 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Current version of schema `clouddatabase`: 4
+2021-02-16 23:58:47,509 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Current version of schema `clouddatabase`: 4
+2021-02-16 23:58:47,510 WARN org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` has a version (4) that is newer than the latest available migration (3) !
+2021-02-16 23:58:47,510 WARN org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` has a version (4) that is newer than the latest available migration (3) !
+2021-02-16 23:58:47,512 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` is up to date. No migration necessary.
+2021-02-16 23:58:47,512 INFO org.flywaydb.core.internal.command.DbMigrate [restartedMain] Schema `clouddatabase` is up to date. No migration necessary.
+2021-02-16 23:58:47,521 DEBUG org.flywaydb.core.Flyway [restartedMain] Memory usage: 40 of 67M
+2021-02-16 23:58:47,521 DEBUG org.flywaydb.core.Flyway [restartedMain] Memory usage: 40 of 67M
+2021-02-16 23:58:50,663 INFO com.backend.core.configuration.FeatureToggleLoading [restartedMain] Loading feature toggle informations
+2021-02-16 23:58:50,769 INFO com.backend.core.configuration.FeatureToggleLoading [restartedMain] Processed Feature -> 1
+2021-02-16 23:58:50,872 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loading Tenant/Realm information
+2021-02-16 23:58:51,121 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> devRealm
+2021-02-16 23:58:51,221 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> devRealm1
+2021-02-16 23:58:51,294 INFO com.backend.core.configuration.TenantInfoLoading [restartedMain] loaded tenant -> Ria Groceries
+2021-02-16 23:58:52,040 INFO com.backend.core.security.CoreSecurityConfiguration [restartedMain] <<<<<<<<<< App Running in prod mode >>>>>>>>
+2021-02-16 23:58:53,511 INFO com.backend.service.app.Application [restartedMain] Started Application in 10.999 seconds (JVM running for 11.794)
